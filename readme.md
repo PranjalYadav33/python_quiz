@@ -75,7 +75,7 @@ Want to run this app on your own machine? It's easy!
 4.  **Run the Streamlit App**
     This command will start the local server and open the app in your browser.
     ```bash
-    streamlit run app.py
+    streamlit run main.py
     ```
 
 And you're all set! Enjoy the quiz.
@@ -83,5 +83,6 @@ And you're all set! Enjoy the quiz.
 ---
 
 ## 📄 License
+
 
 This project is open-source and available under the [MIT License](LICENSE).
