@@ -8,11 +8,10 @@ A retro-themed, interactive quiz web application built with Python and Streamlit
 
 <!-- 
 INSTRUCTIONS: 
-1. Replace the URL below with the link to your live Streamlit App.
-2. After you deploy, create an animated GIF of your app in action (https://www.screentogif.com/ is a great free tool).
-3. Upload the GIF to your repository and replace 'quiz-demo.gif' with its filename.
+1. Create an animated GIF of your app in action (https://www.screentogif.com/ is a great free tool).
+2. Upload the GIF to your repository and replace 'quiz-demo.gif' with its filename.
 -->
-[![View Live App](https://img.shields.io/badge/View%20Live%20App-Click%20Here-red?style=for-the-badge)](https://your-streamlit-app-url.streamlit.app/)
+[![View Live App](https://img.shields.io/badge/View%20Live%20App-Click%20Here-red?style=for-the-badge)](https://pythonquiz-gylwkcjtupxer7vkwcfiyg.streamlit.app/)
 
 ---
 
@@ -49,7 +48,8 @@ This project leverages the power of Python's ecosystem to create a web app from 
 
 Want to run this app on your own machine? It's easy!
 
-1.  **Clone the Repository**
+1.  **Clone the Repository** 
+    *(Remember to replace `your-username` and `your-repo-name` below!)*
     ```bash
     git clone https://github.com/your-username/your-repo-name.git
     cd your-repo-name
@@ -83,6 +83,5 @@ And you're all set! Enjoy the quiz.
 ---
 
 ## 📄 License
-
 
 This project is open-source and available under the [MIT License](LICENSE).
